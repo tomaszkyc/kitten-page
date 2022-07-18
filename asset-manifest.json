@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kitten-page/static/css/main.8a49b138.css",
+    "main.js": "/kitten-page/static/js/main.32acbca7.js",
+    "index.html": "/kitten-page/index.html",
+    "main.8a49b138.css.map": "/kitten-page/static/css/main.8a49b138.css.map",
+    "main.32acbca7.js.map": "/kitten-page/static/js/main.32acbca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a49b138.css",
+    "static/js/main.32acbca7.js"
+  ]
+}
